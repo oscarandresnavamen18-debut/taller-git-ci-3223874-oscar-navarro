@@ -1,0 +1,3 @@
+﻿console.log('App basica iniciada');
+
+console.log('Hola, mundo!');
