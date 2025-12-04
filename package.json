@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-3223874",
+  "version": "1.0.0",
+  "description": "Proyecto básico con Git y GitHub",
+  "main": "app.js",
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format:write": "prettier --write .",
+    "test": "node --test"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "workflow"
+  ],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
